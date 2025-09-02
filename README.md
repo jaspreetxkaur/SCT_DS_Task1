@@ -32,3 +32,11 @@ This task demonstrates how to:
 ---
 
 ## 📂 Project Structure
+
+SCT_DS_Task1/
+│
+├─ notebooks/             # Jupyter Notebook with implementation
+├─ data/                  # Dataset CSV files
+├─ outputs/               # Generated plots and charts
+└─ README.md              # Project documentation
+
